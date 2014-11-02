@@ -1,10 +1,14 @@
 {
   "name": "lru-ts",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "O(1) LRU cache implementation in TypeScript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TrueLink/lru-ts.git"
   },
   "keywords": [
     "lru",
@@ -13,6 +17,7 @@
   ],
   "author": "wizzard0",
   "license": "MIT",
+  "readme": "README.md",
   "devDependencies": {
     "gulp": "^3.8.8",
     "gulp-typescript": "^2.2.0",
