@@ -1,6 +1,6 @@
 {
   "name": "lru-ts",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "O(1) LRU cache implementation in TypeScript",
   "main": "index.js",
   "scripts": {
